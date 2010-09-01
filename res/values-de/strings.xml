@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Custom Timer</string>
+    <string name="main_freestyle_timer">Freestyle Timer</string>
+    <string name="main_new_timer">Neuer Timer</string>
+    <string name="main_all_timers">Alle Timer</string>
+</resources>
