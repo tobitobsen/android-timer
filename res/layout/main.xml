@@ -2,15 +2,16 @@
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
 	android:layout_width="fill_parent" android:layout_height="fill_parent">
 	<LinearLayout android:orientation="vertical"
-		android:layout_width="fill_parent" android:layout_height="fill_parent" android:gravity="center_horizontal">
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:gravity="center_horizontal">
 
 		<Button android:text="@string/main_freestyle_timer" android:id="@+id/MainButtonFreestyle"
-			android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+			style="@style/ButtonTheme"></Button>
 
 		<Button android:text="@string/main_new_timer" android:id="@+id/MainButtonNewTimer"
-			android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+			style="@style/ButtonTheme"></Button>
 
 		<Button android:text="@string/main_all_timers" android:id="@+id/MainButtonAllTimers"
-			android:layout_width="wrap_content" android:layout_height="wrap_content"></Button>
+			style="@style/ButtonTheme"></Button>
 	</LinearLayout>
 </ScrollView>
