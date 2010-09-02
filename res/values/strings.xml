@@ -4,4 +4,9 @@
     <string name="main_freestyle_timer">Freestyle Timer</string>
     <string name="main_new_timer">New Timer</string>
     <string name="main_all_timers">All Timers</string>
+    <string name="start">Start</string>
+	<string name="pause">Pause</string>
+	<string name="resume">Resume</string>
+	<string name="restart">Restart</string>
+	<string name="timer">Left: 100</string>  
 </resources>

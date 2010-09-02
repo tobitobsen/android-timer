@@ -10,7 +10,8 @@
 			</intent-filter>
 		</activity>
 
-	</application>
+	<activity android:name="FreestyleActivity" android:label="Custom Timer"></activity>
+</application>
 	<uses-sdk android:minSdkVersion="4" />
 
 </manifest> 
